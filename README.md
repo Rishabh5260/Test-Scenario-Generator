@@ -1,6 +1,6 @@
 # Test-Scenario-Generator
 
-The Automatic Test Case Generation tool is developed to automatically generate test cases for behavioral UML state diagrams, based on the tree structure and the concept of Genetic
+The Automatic Test Case Scenario Generation tool is developed to automatically generate test cases for behavioral UML state diagrams, based on the tree structure and the concept of Genetic
 Algorithm.
 The tool and its requirements are only pertaining to the functionality needed to implement the test case generation tool.
 The main purpose is to specify a set of usage scenarios that will cover all activity diagram
